@@ -1,3 +1,5 @@
+---
+
 title: "El Estrés como Indicador de Recaída en el Consumo de Alcohol" date: 2025-08-15 author: "Nombre Autor" category: "Salud Mental" tags:
 
 - salud-mental
@@ -10,7 +12,7 @@ title: "El Estrés como Indicador de Recaída en el Consumo de Alcohol" date: 20
     
 - recuperación summary: "Exploramos cómo el alto estrés y la rigidez psicológica pueden ser indicadores de riesgo de recaída, y cómo un enfoque terapéutico basado en la aceptación y los valores personales puede ayudar a contrarrestarlo." cover: "assets/imagenes/portada-estres-recuperacion.jpg" draft: false
     
-
+---
 # Introducción
 
 El camino hacia la recuperación del consumo de alcohol es un proceso complejo. Una investigación crucial de Engel et al. (2015) revela que los niveles elevados de estrés psicológico pueden ser un factor de riesgo significativo para la recaída. Comprender y gestionar estos indicadores es un paso fundamental para mantener un estado de abstinencia y bienestar a largo plazo.
