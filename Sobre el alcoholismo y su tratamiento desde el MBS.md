@@ -9,14 +9,48 @@ category: "Adicciones"
 tags: ["MBS","alcoholismo","recuperación","estrés"]
 
 ---
+# Introducción
 
-El estudio de Engel et al en el 2015 menciona que altos niveles de estres se pueden establecer como indicadores de riesgo de recaida en el consumo de alcohol, siendo indicadores tales como el uso de psicometricos especificos para el estres como SCL-90 donde a mayor rango de estres mayor riesgo de consumo, a su vez tambien se menciona que los sub factores como Sensibilidad Interpersonal, ansiedad, y psicoticismo tienden a estar elevados en hasta dos puntos de diferencia sobre un grupo absitnente. Dado el modeo de investigacion se modela que el grupo abstinente se mantiene en ese estado en tanto los niveles de estres sean bajos especialmente en sub factores como estres somatico, depresion y ansiedad.
-Engel, Katharina & Schaefer, Martin & Stickel, Anna & Binder, Hennriette & Heinz, Andreas & Richter, Christoph. (2015). The Role of Psychological Distress in Relapse Prevention of Alcohol Addiction. Can High Scores on the SCL-90-R Predict Alcohol Relapse?. Alcohol and alcoholism (Oxford, Oxfordshire). 51. 10.1093/alcalc/agv062. 
+El camino hacia la recuperación del consumo de alcohol es un proceso complejo. Una investigación crucial de Engel et al. (2015) revela que los niveles elevados de estrés psicológico pueden ser un factor de riesgo significativo para la recaída. Comprender y gestionar estos indicadores es un paso fundamental para mantener un estado de abstinencia y bienestar a largo plazo.
 
-En el contexto de cambio se promueven decisiones y compromisos desde el individuo no desde la imposicion o coercion. 
-Marco terapeutico
-Se busca que mejoren la autococinecia, aceptar sus experiencias y clarificar sus valores y vivir en formas basados en sus valores. Concientizacion implica apertura sin defensa hacia la experiencia, desde la practica del mindfulness desde los observar o confrontar de forma pasiva en vez de la evitacion y la autorefleccion desde la exploracion de los valores personales, revisitando los pensamientos , sentimientos y acciones explorando opciones y prioridades.  Se motiva a los individuos a aceptar sus experiencias antes que luchar contra estas mientras se aterriza sobre sus motivaciones y direccion de vida basado en sus valores personales. 
-La contraposicon interesante del modelo es que busca contrarestar la evitacion experiencial la cual tiende a autoreforzarse a corto plazo proponiendo una primera posicion "incomoda" de vivir la experiencia inmediata sin evitacion , sin reaccion para desarrollar perspectiva sobre lo que realmente importa.
+## Señales y síntomas
 
-Se plantea la rigidez psicologica como fundamento del sufrimiento estableciendo el malestar que genera eventos fuera de nuestros contexto o modo de vida establecido (creencias) que tienden a reforzarse por el efecto de profecia autocumplida ** lo cual tiene seis procesos nucleares: evitacion experiencial * seamos concienste s o no tendemos a evitar experiencias incomodas que dentro del proposito terapeutico se inste a experimentar abiertamente algun grado de malestar emocional mientras se cumplen objetivos*, atencion inflexible * como la tendencia instintiva de llevar el foco de atencion sobre el pasado o el futuro anticipado mientras omitimos el presente* , apego a un yo conceptualizado *implica quedarse en la etiqueta tanto heredada como entregada por otros, limitando la capacidad de uno mismo hacia lo cree que puede hacer frente a lo que puede hacer en el proposito terapeutico se busca que se vea a si mismo como contexto* ,  fusion cognitiva *implica ese apego irreflenable hacia las experiencias internas, dando valor de realidad a creenciasy a emociones  como directrices de accion.*, disrupcion de los valores escogidos *lo cual remite a mantener conductas que refuerzan creencias y establecemos creencias como normas de vida o valores contraproducentes* y la dinamica inaccion o impuslvidad *como una respuesta de gratificacion inmediata  que a largo plazo genera malestar y cuya propuesta terapeutica es la accion con compromiso * .
-MBS, 14
+El estudio identifica indicadores específicos de estrés que se asocian con un mayor riesgo de recaída. A través de evaluaciones psicométricas como el SCL-90, se observa que cuanto mayor es el rango de estrés, mayor es el riesgo de consumo.
+
+Los siguientes subfactores de estrés suelen estar notablemente elevados en hasta dos puntos en personas que recaen, en comparación con aquellas que se mantienen estables:
+
+- **Sensibilidad Interpersonal:** Mayor susceptibilidad a las interacciones sociales y a las críticas.
+    
+- **Ansiedad:** Sentimientos de preocupación, inquietud y nerviosismo.
+    
+- **Psicoticismo:** Aislamiento social y desorganización en los pensamientos.
+    
+
+Por otro lado, se ha observado que los grupos que mantienen su abstinencia se caracterizan por bajos niveles de estrés, particularmente en subfactores como el estrés somático, la depresión y la ansiedad.
+
+## Estrategias y recomendaciones
+
+Para contrarrestar estos riesgos, el marco terapéutico promueve un cambio desde el individuo. En lugar de la imposición, se fomenta el desarrollo de la **autoconciencia**, la **aceptación de las experiencias** y la **clarificación de los valores personales**.
+
+La concientización se practica a través del _mindfulness_, que invita a observar pasivamente las emociones y pensamientos en lugar de evitarlos. Esta aproximación busca confrontar la **evitación experiencial**, una tendencia natural que ofrece alivio a corto plazo pero que refuerza el malestar a largo plazo.
+
+El modelo propone una primera posición "incómoda": vivir la experiencia inmediata sin reaccionar para desarrollar una perspectiva sobre lo que realmente importa. Esto aborda la **rigidez psicológica**, la cual se manifiesta en seis procesos nucleares que pueden ser trabajados:
+
+- **Evitación Experiencial:** Aceptar el malestar emocional en la búsqueda de objetivos.
+    
+- **Atención Inflexible:** Enfocarse en el presente en vez de quedar atrapado en el pasado o el futuro.
+    
+- **Apego a un Yo Conceptualizado:** Verse a uno mismo como un contexto de experiencias, no como una etiqueta fija.
+    
+- **Fusión Cognitiva:** Reconocer que los pensamientos y emociones no son directrices absolutas de acción.
+    
+- **Disrupción de los Valores Escogidos:** Asegurar que las acciones estén alineadas con los valores personales.
+    
+- **Inacción o Impulsividad:** Reemplazar las respuestas de gratificación inmediata con acciones comprometidas.
+    
+
+## Referencias
+
+- Engel, K. et al. (2015). The Role of Psychological Distress in Relapse Prevention of Alcohol Addiction. Can High Scores on the SCL-90-R Predict Alcohol Relapse?. _Alcohol and alcoholism (Oxford, Oxfordshire)_, 51. DOI: 10.1093/alcalc/agv062.
+    
+- MBS, 14.
