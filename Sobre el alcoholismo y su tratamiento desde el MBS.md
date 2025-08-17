@@ -1,17 +1,15 @@
 ---
-
 title: "Sobre el alcoholismo y su tratamiento desde el MBS"
-
 description: "Revisión sobre riesgo de recaída, rigidez psicológica y estrategias basadas en la aceptación y compromiso (MBS)."
-
 category: "Adicciones"
-
 tags: ["MBS","alcoholismo","recuperación","estrés"]
-
 ---
+
 # Introducción
 
 El camino hacia la recuperación del consumo de alcohol es un proceso complejo. Una investigación crucial de Engel et al. (2015) revela que los niveles elevados de estrés psicológico pueden ser un factor de riesgo significativo para la recaída. Comprender y gestionar estos indicadores es un paso fundamental para mantener un estado de abstinencia y bienestar a largo plazo.
+
+![Ilustración sobre recuperación](https://images.unsplash.com/photo-1506744038136-46273834b3fb?auto=format&fit=crop&w=600&q=80)
 
 ## Señales y síntomas
 
@@ -20,11 +18,12 @@ El estudio identifica indicadores específicos de estrés que se asocian con un 
 Los siguientes subfactores de estrés suelen estar notablemente elevados en hasta dos puntos en personas que recaen, en comparación con aquellas que se mantienen estables:
 
 - **Sensibilidad Interpersonal:** Mayor susceptibilidad a las interacciones sociales y a las críticas.
-    
 - **Ansiedad:** Sentimientos de preocupación, inquietud y nerviosismo.
-    
 - **Psicoticismo:** Aislamiento social y desorganización en los pensamientos.
-    
+
+> Escucha este audio sobre estrategias de afrontamiento:
+>
+> <audio controls src="https://www.w3schools.com/html/horse.mp3"></audio>
 
 Por otro lado, se ha observado que los grupos que mantienen su abstinencia se caracterizan por bajos niveles de estrés, particularmente en subfactores como el estrés somático, la depresión y la ansiedad.
 
@@ -34,23 +33,20 @@ Para contrarrestar estos riesgos, el marco terapéutico promueve un cambio desde
 
 La concientización se practica a través del _mindfulness_, que invita a observar pasivamente las emociones y pensamientos en lugar de evitarlos. Esta aproximación busca confrontar la **evitación experiencial**, una tendencia natural que ofrece alivio a corto plazo pero que refuerza el malestar a largo plazo.
 
+<div style="margin: 1em 0;">
+<video controls width="320" src="https://www.w3schools.com/html/mov_bbb.mp4"></video>
+</div>
+
 El modelo propone una primera posición "incómoda": vivir la experiencia inmediata sin reaccionar para desarrollar una perspectiva sobre lo que realmente importa. Esto aborda la **rigidez psicológica**, la cual se manifiesta en seis procesos nucleares que pueden ser trabajados:
 
 - **Evitación Experiencial:** Aceptar el malestar emocional en la búsqueda de objetivos.
-    
 - **Atención Inflexible:** Enfocarse en el presente en vez de quedar atrapado en el pasado o el futuro.
-    
 - **Apego a un Yo Conceptualizado:** Verse a uno mismo como un contexto de experiencias, no como una etiqueta fija.
-    
 - **Fusión Cognitiva:** Reconocer que los pensamientos y emociones no son directrices absolutas de acción.
-    
 - **Disrupción de los Valores Escogidos:** Asegurar que las acciones estén alineadas con los valores personales.
-    
 - **Inacción o Impulsividad:** Reemplazar las respuestas de gratificación inmediata con acciones comprometidas.
-    
 
 ## Referencias
 
 - Engel, K. et al. (2015). The Role of Psychological Distress in Relapse Prevention of Alcohol Addiction. Can High Scores on the SCL-90-R Predict Alcohol Relapse?. _Alcohol and alcoholism (Oxford, Oxfordshire)_, 51. DOI: 10.1093/alcalc/agv062.
-    
 - MBS, 14.
